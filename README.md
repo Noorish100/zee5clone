@@ -53,25 +53,10 @@ This entire journey of making the project was awesome. We have learned lots of t
 <br>
 <br>
  
-
-
-- ## <span style="color:red"> login/signup Page </span>
- <div align="center">
- 
-  <div style="display: flex;">
-   <div> <img width="450" src="https://drive.google.com/file/d/1AqsAzkIgQcQQnLNNcPHwURq9vjIl2Qv0/view?usp=sharing" style="vertical-align: top;" /> 
-    <img width="450" src="https://user-images.githubusercontent.com/91541289/146793783-d43823fb-290d-4915-9107-732f3c15685b.png" />
-  </div>
-    
-   </div>
-</div>
-
-<br>
-<br>
  
 
 
-- ## <span style="color:blue">  Become a Host Page </span>
+- ## <span style="color:blue">  login/signup page </span>
  <div align="center">
  
   <div style="display: flex;">
