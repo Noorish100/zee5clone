@@ -7,7 +7,7 @@ Hello Readers,<br>
 
 # <span style="color:blue"> About Website: </span>
 
- [Zee5](www.zee5.com) Zee5, brings best unlimited online shows movies and many kind of videos in different languages .ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, run by Zee Entertainment Enterprises.
+ [Zee5](https://zee5-clone.netlify.app/) Zee5, brings best unlimited online shows movies and many kind of videos in different languages .ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, run by Zee Entertainment Enterprises.
 
 # <span style="color:blue"> Tech Stack Used: </span>
 
