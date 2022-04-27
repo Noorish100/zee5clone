@@ -44,8 +44,8 @@ This entire journey of making the project was awesome. We have learned lots of t
 <div align="center">
  
   <div style="display: flex;justify-content:space-between">
-   <div> <img src="https://user-images.githubusercontent.com/91541289/146790574-517f5a2e-d314-4795-9e8d-b28601cec36a.png" style="vertical-align: top;" /> 
-    <img src="https://user-images.githubusercontent.com/91541289/146790572-44d3aedf-62e3-442f-865e-ae5ee06c4293.png" />
+   <div> <img src="https://lh3.googleusercontent.com/skHc_opc7KJdizvzg2pp87VC72h87lIjBLi3sykH5prXPUBCkKv10K0tA-omohSAr9VGO7lH6WwfwVAljqLByRZnfgVw3_WWobUvaShVhfYN7cqgH9D6N_w5LovXEujktefMPW_8WnM=w2400" style="vertical-align: top;" /> 
+    <img src="https://lh3.googleusercontent.com/wZaMXeKP57NyCrzr_jy0bbugaq1Ih7PM8bRPCB0GTwZ_R8PueANWvBWEctDqZz-Ffc65YPPKD0IKpmnkNMDrDSAyBfWQOvPQsQ6RJykFUl__vQ2G6_c7zGgjQMnV6cqBpRAG3zRqAqo=w2400" />
   </div>
     
    </div>
@@ -55,11 +55,11 @@ This entire journey of making the project was awesome. We have learned lots of t
  
 
 
-- ## <span style="color:red"> ZMS Page </span>
+- ## <span style="color:red"> login/signup Page </span>
  <div align="center">
  
   <div style="display: flex;">
-   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146793779-9a561168-79aa-47b2-91a0-549f9e194f82.png" style="vertical-align: top;" /> 
+   <div> <img width="450" src="https://drive.google.com/file/d/1AqsAzkIgQcQQnLNNcPHwURq9vjIl2Qv0/view?usp=sharing" style="vertical-align: top;" /> 
     <img width="450" src="https://user-images.githubusercontent.com/91541289/146793783-d43823fb-290d-4915-9107-732f3c15685b.png" />
   </div>
     
@@ -75,8 +75,8 @@ This entire journey of making the project was awesome. We have learned lots of t
  <div align="center">
  
   <div style="display: flex;">
-   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146793768-899bd94a-851f-4054-817f-c8a0d4b6b443.png" style="vertical-align: top;" /> 
-    <img width="450" src="https://user-images.githubusercontent.com/91541289/146793775-67cb18be-9adb-44e6-b698-1a654a97f518.png" />
+   <div> <img width="450" src="https://lh3.googleusercontent.com/eqysG3cIhMDbMVsI4uARV8cDz0b8kAxm0SmpeKxDoYeur65SfBc6UZJ9agQLBRHlpvfEATqLczgogz__GsqYD9H7fX5rLuN9Xf-jGK3mM4L0pZKGzZBh-epniWKMdD0qSaPRCW3PS0Q=w2400" style="vertical-align: top;" /> 
+    <img width="450" src="https://lh3.googleusercontent.com/x8mzb24MFDuaEiz9USXYy0WtgU30PJnbwbsaF72-6Y2c_GcpIklHP3qH9y30ch74ddXkouSH8-n1REqo37rqnrG97AhLA-ksc91202ntAUWMSK3R8sup5VrTzJgCtZk6a5a8JoJ_Wl4=w2400" />
   </div>
     
    </div>
@@ -87,12 +87,12 @@ This entire journey of making the project was awesome. We have learned lots of t
  
 
 
-- ## <span style="color:blue"> Home Page-Login/Signup </span>
+- ## <span style="color:blue"> buypage </span>
  <div align="center">
  
   <div style="display: flex;">
-   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790584-98200afb-7240-4c2d-b81b-eb10046e0a89.png" style="vertical-align: top;" /> 
-    <img width="450" src="https://user-images.githubusercontent.com/91541289/146790578-02f3adf5-69ac-48b6-a595-4c7669911b5d.png" />
+   <div> <img width="450" src="https://lh3.googleusercontent.com/T9Y1AholZ-Y4TYNkyx5yJJ3MnMkMQCPfP_RqTw0CAbIDGWn5E41RorWIq0datSsCHxq91R26f8L5LJC9-cX9bRvGa6gwHI-9AEQdmNquo90glECoZmIfbIDrmLNP3_ibjZ6-Rd9kxzg=w2400" style="vertical-align: top;" /> 
+    <img width="450" src="https://lh3.googleusercontent.com/o5bPDX5NktKAtUfLjrM4F1ZWjGWB2X-5YZ4ZC0hBpWnZ7YiISG6_dwc8LqWNdD_E5IRUKmJ_an0pADzcQuEzONqSK8n6zH6UASPhPKflKxKar7uHgrhSkZ6ogaXru3B918PKMuk3Yuo=w2400" />
   </div>
     
    </div>
@@ -103,11 +103,11 @@ This entire journey of making the project was awesome. We have learned lots of t
  
 
 
-- ## <span style="color:blue">Trip Booking-Select City </span>
+- ## <span style="color:blue">About us </span>
  <div align="center">
  
   <div style="display: flex;">
-   <div> <img width="500" src="https://user-images.githubusercontent.com/91541289/141655244-ba41281a-fc77-4549-b960-30acb7f9f921.png" style="vertical-align: top;" /> 
+   <div> <img width="500" src="https://lh3.googleusercontent.com/wZjrmAyODGtqZngq-B4-Czy-Lyp3DmlnyJPcdBH_481zcEx_ydZP6tbUM3mief0jN7jzGZc7xU7zUb_gudBlRknrrHXOipr7BJ4qfNPkvaimFYGMG2nnFhvJAMUBuEy4Mmr-k2QL84I=w2400" style="vertical-align: top;" /> 
     
   </div>
     
@@ -119,37 +119,20 @@ This entire journey of making the project was awesome. We have learned lots of t
  
 
 
-- ## <span style="color:blue"> Trip Booking-Pickup and DropOff Location </span>
- <div align="center">
- 
-  <div style="display: flex;">
-   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790575-3bd7f236-9c10-4a89-9514-f33e6a6e7461.png" style="vertical-align: top;" /> 
-    <img width="450" src="https://user-images.githubusercontent.com/91541289/146790585-0b592e99-624c-44f3-8656-26d5d69c9879.png" />
-    
-     
-  </div>
-    
-   </div>
-</div>
- 
 
-<br>
-<br>
  
 
 
-- ## <span style="color:blue"> Car Booking Page</span>
- <div align="center">
  
-  <div style="display: flex;">
-   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790595-8723b759-1445-484c-8dee-a2076857b946.png" style="vertical-align: top;" /> 
-    <img width="450" src="https://user-images.githubusercontent.com/91541289/146790593-4c7de262-4633-4e75-983e-5516cbedaea6.png" />
-    
-     
-  </div>
-    
-   </div>
-</div>
+
+
+
+
+
+ 
+
+
+
 
 
 
@@ -159,44 +142,13 @@ This entire journey of making the project was awesome. We have learned lots of t
  
 
 
-- ## <span style="color:blue"> Selected Car Details </span>
- <div align="center">
- 
-  <div style="display: flex;">
-   <div> <img width="500" src="https://user-images.githubusercontent.com/91541289/146790592-97203e87-e95e-4a0f-9a05-e61907c82d88.png" style="vertical-align: top;" /> 
-    
-  </div>
-    
-   </div>
-</div>
-
-
-
-
-<br>
-<br>
- 
-
-
-- ## <span style="color:blue"> Mode Of Payment </span>
- <div align="center">
- 
-  <div style="display: flex;">
-   <div> <img width="450" src="https://user-images.githubusercontent.com/91541289/146790581-b69cd1a4-8c9b-4208-8181-e8314bb3cde7.png" style="vertical-align: top;" /> 
-    <img width="450" src="https://user-images.githubusercontent.com/91541289/141655237-e4c4b3e5-d120-49b4-8ded-9f840de87bf6.png" />
-    
-     
-  </div>
-    
-   </div>
-</div>
 
 
 
 
 
 
-<br>
+
  <hr>
 
  <br>
